@@ -1,4 +1,4 @@
-# Bisexual pride procedural thinger for lumicube, written (terribly) by Nicole Roy, 2022
+# Bisexual pride procedural thinger for lumicube, written (terribly) by Nicole Roy, 2022, based on demo code from Abstract Foundry.
 
 import colorsys
 
